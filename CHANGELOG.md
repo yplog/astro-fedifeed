@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.1
+
+### Security
+
+- The minimum `sanitize-html` version is now 2.18.1, which fixes a moderate-severity advisory (CVE-2026-113650).
+
 ## 2.0.0
 
 ### Added
