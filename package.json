@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "fast-xml-parser": "^5.11.2",
-    "sanitize-html": "^2.18.0"
+    "sanitize-html": "^2.18.1"
   },
   "engines": {
     "node": ">=24"
