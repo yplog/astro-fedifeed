@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.2
+
+### Security
+
+- The minimum `fast-xml-parser` version is now 5.12.1, which fixes a low-severity advisory (CVE-2026-126066).
+
 ## 2.0.1
 
 ### Security
