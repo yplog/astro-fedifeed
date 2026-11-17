@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "astro-fedifeed": "^2.0.0",
-    "astro": "^7.1.0"
+    "astro": "^7.4.7"
   }
 }
